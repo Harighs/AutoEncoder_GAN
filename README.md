@@ -12,37 +12,41 @@ dataset: MNIST dataset
  
 ### Parameter and Hyper params details
 
-### Observations and results
+### Observations and results: 
 
-### On 100th Epoch:
+### 1. On 100th Epoch:
 #### Linear:
 <img align="centre" src="results/linear_epoch_set_100.png" width= 1000/>
 
 #### CNN:
 <img align="centre" src="results/cnn_epoch_set_100.png" width= 1000/>
+---
 
-### On 300th Epoch:
+### 2. On 300th Epoch:
 #### Linear:
 <img align="centre" src="results/linear_epoch_set_300.png" width= 1000/>
 
 #### CNN:
 <img align="centre" src="results/cnn_epoch_set_300.png" width= 1000/>
+---
 
-### On 600th Epoch:
+### 3. On 600th Epoch:
 #### Linear:
 <img align="centre" src="results/linear_epoch_set_600.png" width= 1000/>
 
 #### CNN:
 <img align="centre" src="results/cnn_epoch_set_600.png" width= 1000/>
+---
 
-### On 800th Epoch:
+### On 4. 800th Epoch:
 #### Linear:
 <img align="centre" src="results/linear_epoch_set_800.png" width= 1000/>
 
 #### CNN:
 <img align="centre" src="results/cnn_epoch_set_800.png" width= 1000/>
+---
 
-### On 1000th Epoch:
+### On 5. 1000th Epoch:
 #### Linear:
 <img align="centre" src="results/linear_epoch_set_900.png" width= 1000/>
 
