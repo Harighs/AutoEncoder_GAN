@@ -11,6 +11,16 @@ dataset: MNIST dataset
 - We are generating hand writen digits in unsupervised learning method
  
 ### Parameter and Hyper params details
+##### Ranodmly generated image:
+<img align="centre" src="results/randomly_generated.png" width= 500/>
+
+##### Intitial Prediction 1 Epoch: (Linear)
+<img align="centre" src="results/first_prediction_1_epoch.png" width= 500/>
+
+##### 50 Epoch: Continuous prediction:
+<img align="centre" src="results/linear_50_prediction.png" width= 500/>
+
+<img align="centre" src="results/cnn_50_prediction.png" width= 500/>
 
 ### Observations and results: 
 
